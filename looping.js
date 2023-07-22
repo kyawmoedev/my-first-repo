@@ -26,5 +26,3 @@
 // console.log("kyawmoeaung");
 // console.log(letters);
 // console.log(marks("Total :"));
-
-console.log("Singapore");
